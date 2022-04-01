@@ -1,0 +1,31 @@
+.heading{
+    color: aliceblue;
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    color: black;
+    font-size: 12px;
+}
+
+.footer{
+    position: fixed;
+    background-color:grey;
+    width: 100%;
+    color: crimson;
+    text-align: center;
+    line-height:3;
+    bottom: 0px;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px crimson;
+}
+
+body{
+    background-color:green;
+}
